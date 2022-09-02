@@ -1,9 +1,6 @@
 Hi 👋 My name is Łukasz Jasionowski
 ===================================
 
-I am learning to become .NET Developer
---------------------------------------
-
 <p>I am a computer science student.<br>I learn programming largely on my own from courses, tutorials and books.<br>I would like to become a .NET programmer, I am mainly interested in web applications.</p>
 
 ### Skills
