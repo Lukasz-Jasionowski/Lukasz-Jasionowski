@@ -60,8 +60,8 @@
 <p align="center">
     <a align="center" href="http://www.github.com/Lukasz-Jasionowski"><img
             src="https://github-readme-streak-stats.herokuapp.com/?user=Lukasz-Jasionowski&theme=react&hide_border=true"
-            height="200" /></a>
+            height="180" /></a>
     <a align="center" href="http://www.github.com/Lukasz-Jasionowski"><img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasz-Jasionowski&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-            height="200" /></a>
+            height="180" /></a>
 </p>
