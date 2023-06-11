@@ -54,8 +54,8 @@
     <a href="https://github.com/Lukasz-Jasionowski/LOTR-Quote-Generator" target="_blank">LOTR Quote Generator</a><br>
     <a href="https://github.com/Lukasz-Jasionowski/Infinity-Scroll" target="_blank">Infinity Scroll</a><br>
     <a href="https://github.com/Lukasz-Jasionowski/Picture-in-Picture" target="_blank">Picture in Picture</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Joke-Teller" target="_blank">Joke Teller</a>
-    <a href="https://github.com/Lukasz-Jasionowski/Light-Dark-Mode" target="_blank">Dark & Light Mode</a>
+    <a href="https://github.com/Lukasz-Jasionowski/Joke-Teller" target="_blank">Joke Teller</a><br>
+    <a href="https://github.com/Lukasz-Jasionowski/Light-Dark-Mode" target="_blank">Dark & Light Mode</a><br>
 </p>
 <h2 align="center">🪪GitHub Status:</h2>
 <p align="center">
