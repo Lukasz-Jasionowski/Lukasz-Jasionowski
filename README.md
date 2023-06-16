@@ -56,6 +56,9 @@
     <a href="https://github.com/Lukasz-Jasionowski/Picture-in-Picture" target="_blank">Picture in Picture</a><br>
     <a href="https://github.com/Lukasz-Jasionowski/Joke-Teller" target="_blank">Joke Teller</a><br>
     <a href="https://github.com/Lukasz-Jasionowski/Light-Dark-Mode" target="_blank">Dark & Light Mode</a><br>
+    <a href="https://github.com/Lukasz-Jasionowski/Animated-Template" target="_blank">Animated Template</a><br>
+    <a href="https://github.com/Lukasz-Jasionowski/Animated-Navigation" target="_blank">Animated Navigation</a><br>
+    <a href="https://github.com/Lukasz-Jasionowski/Music-Player" target="_blank">Music Player</a><br>
 </p>
 <h2 align="center">🪪GitHub Status:</h2>
 <p align="center">
