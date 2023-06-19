@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/wBdZz5k/banner.png" alt="Łukasz Jasionowski Banner.png">
+<img src="https://i.ibb.co/f1NZLfH/banner-Medium.png" alt="Łukasz Jasionowski Banner.png">
 <p align="center">I am constantly learning and strive to achieve success through accurate and efficient work, with a
     view to the development of the company.<br>I possess leadership qualities, and my passion for learning results in my
     participation in various courses and trainings, both paid and free, in order to continuously develop myself and
