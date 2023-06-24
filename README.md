@@ -59,6 +59,8 @@
     <a href="https://github.com/Lukasz-Jasionowski/Animated-Template" target="_blank">Animated Template</a><br>
     <a href="https://github.com/Lukasz-Jasionowski/Animated-Navigation" target="_blank">Animated Navigation</a><br>
     <a href="https://github.com/Lukasz-Jasionowski/Music-Player" target="_blank">Music Player</a><br>
+    <a href="https://github.com/Lukasz-Jasionowski/Custom-Countdown" target="_blank">Custom Countdown</a><br>
+    <a href="https://github.com/Lukasz-Jasionowski/Password-Generator" target="_blank">Password Generator</a><br>
 </p>
 <h2 align="center">🪪GitHub Status:</h2>
 <p align="center">
