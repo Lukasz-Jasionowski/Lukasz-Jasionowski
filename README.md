@@ -44,24 +44,31 @@
             height="40px"></a>
 </p>
 <h2 align="center">📔Projects:</h2>
-<p align="center">
-    <a href="https://github.com/Lukasz-Jasionowski/Simon-Game" target="_blank">Simon Game</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/The-Dice-Game" target="_blank">The Dice Game</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Newsletter-Signup" target="_blank">Newsletter Signup</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/ThatsGreat" target="_blank">That's Great</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Journal" target="_blank">Journal</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/To-Do-List" target="_blank">To Do List</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/LOTR-Quote-Generator" target="_blank">LOTR Quote Generator</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Infinity-Scroll" target="_blank">Infinity Scroll</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Picture-in-Picture" target="_blank">Picture in Picture</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Joke-Teller" target="_blank">Joke Teller</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Light-Dark-Mode" target="_blank">Dark & Light Mode</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Animated-Template" target="_blank">Animated Template</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Animated-Navigation" target="_blank">Animated Navigation</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Music-Player" target="_blank">Music Player</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Custom-Countdown" target="_blank">Custom Countdown</a><br>
-    <a href="https://github.com/Lukasz-Jasionowski/Password-Generator" target="_blank">Password Generator</a><br>
-</p>
+
+<div align="center">
+
+| Repository  | Live Demo  | Technology Stack  |
+| :---------: | :--------: | :---------------: |
+|<a href="https://github.com/Lukasz-Jasionowski/Simon-Game" target="_blank">Simon Game</a>|   | |
+| <a href="https://github.com/Lukasz-Jasionowski/The-Dice-Game" target="_blank">The Dice Game</a> |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Newsletter-Signup" target="_blank">Newsletter Signup</a> |  |
+| <a href="https://github.com/Lukasz-Jasionowski/ThatsGreat" target="_blank">That's Great</a>  |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Journal" target="_blank">Journal</a> |  |  |
+|  <a href="https://github.com/Lukasz-Jasionowski/To-Do-List" target="_blank">To Do List</a> |  |  |
+|  <a href="https://github.com/Lukasz-Jasionowski/LOTR-Quote-Generator" target="_blank">LOTR Quote Generator</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Infinity-Scroll" target="_blank">Infinity Scroll</a> |  |  |
+|     <a href="https://github.com/Lukasz-Jasionowski/Picture-in-Picture" target="_blank">Picture in Picture</a> |  |  |
+|  <a href="https://github.com/Lukasz-Jasionowski/Joke-Teller" target="_blank">Joke Teller</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Light-Dark-Mode" target="_blank">Dark & Light Mode</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Animated-Template" target="_blank">Animated Template</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Animated-Navigation" target="_blank">Animated Navigation</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Music-Player" target="_blank">Music Player</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Custom-Countdown" target="_blank">Custom Countdown</a> |  |  |
+|     <a href="https://github.com/Lukasz-Jasionowski/Password-Generator" target="_blank">Password Generator</a> |  |  |
+| <a href="https://github.com/Lukasz-Jasionowski/Bookmarks" target="_blank">Bookmarks</a> |  |  |
+
+</div>
+
 <h2 align="center">🪪GitHub Status:</h2>
 <p align="center">
     <a align="center" href="http://www.github.com/Lukasz-Jasionowski"><img
