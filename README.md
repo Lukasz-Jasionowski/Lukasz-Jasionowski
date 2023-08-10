@@ -15,11 +15,12 @@
     <img src="https://www.svgrepo.com/show/452045/js.svg" alt="Java Script" title="Java Script" height="40px">
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" title="jQuery" height="40px">
     <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" title="React" height="40px">
+    <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite" title="Vite" height="40px">
     <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="NodeJS" title="NodeJS" height="40px">
-    <img src="https://www.svgrepo.com/show/452077/npm.svg" alt="NPM" title="NPM" height="40px">
 </p>
 <p align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" title="C#" height="40px">
+    <img src="https://www.svgrepo.com/show/452077/npm.svg" alt="NPM" title="NPM" height="40px">
+    <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="MongoDB" title="MongoDB" height="40px">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" Title="MSSQL"
         height="40px">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" title="GIT" height="40px">
