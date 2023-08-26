@@ -1,10 +1,9 @@
 <img src="https://i.ibb.co/f1NZLfH/banner-Medium.png" alt="Łukasz Jasionowski Banner.png">
-<p align="center">I am constantly learning and strive to achieve success through accurate and efficient work, with a
-    view to the development of the company.<br>I possess leadership qualities, and my passion for learning results in my
-    participation in various courses and trainings, both paid and free, in order to continuously develop myself and
-    acquire new knowledge.<br>I am currently focusing on developing into a Full Stack Web Developer, constantly working
-    on my code and projects.<br>I am enriching my knowledge in HTML, CSS, Bootstrap, JavaScript, jQuery, React, NodeJS,
-    SQL and NOSQL.
+<p align="center">I am open to new opportunities and technologies.<br>
+I'm one of those people who doesn't like to reinvent the wheel, preferring to improve it by learning the existing process/code.<br>
+I actively participate in courses and tutorials where I write code, modify it, improve it and in case of errors debug it.<br>
+I believe that this approach to learning is one of the most effective ways to gain knowledge,<br> as it allows me to become familiar with various techniques, plugins and services taught by different experts.<br>
+I am currently focusing on improving my skills to become a Full Stack Web Developer.<br>I am constantly working on code and projects to achieve this goal.
 </p>
 <h2 align="center">⚙️Languages and Tools:</h2>
 <p align="center">
