@@ -84,4 +84,6 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasz-Jasionowski&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
             height="180" /></a>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center">🎯Project I'm currently working on: <a href="https://github.com/Lukasz-Jasionowski/Show-Off" target="_blank">Show-Off</a></p>
