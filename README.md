@@ -90,11 +90,11 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 3 mins     █████████████████████▒░░░   85.72 %
-Bash         10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   1 hr 3 mins     >>>>>>>>>>>>>>>>>>>>>----   85.72 %
+Bash         10 mins         >>>----------------------   13.55 %
+Markdown     0 secs          -------------------------   00.44 %
+YAML         0 secs          -------------------------   00.28 %
+Ezhil        0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
