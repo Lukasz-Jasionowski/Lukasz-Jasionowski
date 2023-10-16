@@ -15,5 +15,6 @@ jobs:
       - uses: athul/waka-readme@v0.2.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: -> # optional
+          SHOW_TITLE: true # optional
+          BLOCKS: -# # optional
           TIME_RANGE: all_time # optional
