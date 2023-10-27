@@ -91,7 +91,7 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 25 October 2023
+From: 14 October 2023 - To: 26 October 2023
 
 JavaScript       8 hrs 43 mins   ###############----------   60.82 %
 Markdown         1 hr 56 mins    ###----------------------   13.60 %
