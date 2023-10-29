@@ -20,7 +20,7 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
 <p align="center">
     <img src="https://www.svgrepo.com/show/452077/npm.svg" alt="NPM" title="NPM" height="40px">
     <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="MongoDB" title="MongoDB" height="40px">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" Title="MSSQL"
+    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="MSSQL" Title="MSSQL"
         height="40px">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" title="GIT" height="40px">
     <img src="https://powerwiki.net/images/4/48/Powerautomate.svg" alt="Power Automate" title="Power Automate"
