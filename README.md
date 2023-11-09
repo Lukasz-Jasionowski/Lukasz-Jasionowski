@@ -107,4 +107,4 @@ HTML             44 mins         #------------------------   02.43 %
 
 </div>
 
-<p align="center">🎯Project I'm currently working on: <a href="https://github.com/Lukasz-Jasionowski/React-Quiz" target="_blank">React Quiz</a></p>
+<p align="center">🎯Project I'm currently working on: <a href="" target="_blank">-</a></p>
