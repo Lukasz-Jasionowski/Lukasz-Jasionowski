@@ -107,4 +107,4 @@ PowerShell       56 mins         #------------------------   03.05 %
 
 </div>
 
-<p align="center">🎯Project I'm currently working on: <a href="" target="_blank">-</a></p>
+<p align="center">🎯Project I'm currently working on: <a href="https://github.com/Lukasz-Jasionowski/Travel-App" target="_blank">Travel App</a></p>
