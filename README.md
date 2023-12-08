@@ -78,15 +78,7 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
  <a href="https://github.com/Lukasz-Jasionowski/React-Quiz" target="_blank">React-Quiz</a> | <a href="https://quiz-mrgx.onrender.com/" target="_blank">Here</a> | <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" title="React" height="25px"><img src="https://www.svgrepo.com/show/439022/typescript.svg" alt="Type Script" title="Type Script" height="25px"><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" title="CSS" height="25px"> |
 </div>
 
-<h2 align="center">🪪GitHub Status:</h2>
-<p align="center">
-    <a align="center" href="http://www.github.com/Lukasz-Jasionowski"><img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Lukasz-Jasionowski&theme=react&hide_border=true"
-            height="180" /></a>
-    <a align="center" href="http://www.github.com/Lukasz-Jasionowski"><img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasz-Jasionowski&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-            height="180" /></a>
-</p>
+<h2 align="center">📊Code Status:</h2>
 
 <div align="center">
     
@@ -106,6 +98,13 @@ PowerShell       56 mins         #------------------------   02.41 %
 <!--END_SECTION:waka-->
 
 </div>
+
+<p align="center">
+       <a align="center" href="http://www.github.com/Lukasz-Jasionowski"><img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasz-Jasionowski&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+            height="180" /></a>
+</p>
+
 
 <p align="center">🎯Project I'm currently working on: <a href="https://github.com/Lukasz-Jasionowski/Travel-App" target="_blank">Travel App</a></p>
 <p align="center">I'm also in the process of writing my engineering thesis 👨🏼‍🎓</p>
