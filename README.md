@@ -40,7 +40,7 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
     <a href="https://www.sololearn.com/profile/22078199/" target="_blank"><img
             src="https://blob.sololearn.com/avatars/sololearn.png" alt="SoloLearn" title="SoloLearn" height="40px"></a>
     <a href="https://www.codewars.com/users/Lukasz-Jasionowski" target="_blank"><img
-            src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="CodeWars" title="CodeWars"
+            src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="CodeWars" title="CodeWars"
             height="40px"></a>
 </p>
 <h2 align="center">📔Projects:</h2>
