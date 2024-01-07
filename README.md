@@ -34,7 +34,7 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
     <a href="https://stackoverflow.com/users/18272621/%C5%81ukasz-jasionowski" target="_blank"><img
             src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow"
             title="Stack Overflow" height="40px"></a>
-    <a href="https://www.instagram.com/hello.lukee/" target="_blank"><img
+    <a href="https://www.instagram.com/fitrunner.json/" target="_blank"><img
             src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" title="Instagram"
             height="40px"></a>
     <a href="https://www.sololearn.com/profile/22078199/" target="_blank"><img
