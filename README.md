@@ -85,7 +85,7 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 13 February 2024
+From: 14 October 2023 - To: 14 February 2024
 
 HTML             21 hrs 31 mins  #######------------------   29.34 %
 JavaScript       20 hrs 59 mins  #######------------------   28.62 %
