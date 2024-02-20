@@ -85,14 +85,14 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 18 February 2024
+From: 14 October 2023 - To: 19 February 2024
 
-JavaScript       25 hrs 18 mins  ########-----------------   32.59 %
-HTML             21 hrs 31 mins  #######------------------   27.71 %
-TypeScript       16 hrs 19 mins  #####--------------------   21.02 %
-CSS              3 hrs 45 mins   #------------------------   04.84 %
-Markdown         3 hrs 19 mins   #------------------------   04.28 %
-Other            1 hr 54 mins    #------------------------   02.45 %
+JavaScript       26 hrs 29 mins  ########-----------------   33.59 %
+HTML             21 hrs 31 mins  #######------------------   27.29 %
+TypeScript       16 hrs 19 mins  #####--------------------   20.70 %
+CSS              3 hrs 45 mins   #------------------------   04.77 %
+Markdown         3 hrs 19 mins   #------------------------   04.21 %
+Other            1 hr 54 mins    #------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
