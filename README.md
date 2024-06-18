@@ -106,5 +106,4 @@ Other            2 hrs 9 mins    #------------------------   02.45 %
 </p>
 
 
-<p align="center">🎯Project I'm currently working on: <a href="https://github.com/Lukasz-Jasionowski/Travel-App" target="_blank">Travel App</a></p>
-<p align="center">I'm also in the process of writing my engineering thesis 👨🏼‍🎓</p>
+<p align="center">🎯 I currently specialize in Power Platform.</p>
