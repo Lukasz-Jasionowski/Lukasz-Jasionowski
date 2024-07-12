@@ -1,9 +1,9 @@
-<img src="https://i.ibb.co/f1NZLfH/banner-Medium.png" alt="Łukasz Jasionowski Banner.png">
-<p align="center">I am open to new opportunities and technologies.<br>
-I'm one of those people who doesn't like to reinvent the wheel, preferring to improve it by learning the existing process/code.<br>
-I actively participate in courses and tutorials where I write code, modify it, improve it and in case of errors debug it.<br>
-I believe that this approach to learning is one of the most effective ways to gain knowledge,<br> as it allows me to become familiar with various techniques, plugins and services taught by different experts.<br>
-I am currently focusing on improving my skills to become a Full Stack Web Developer.<br>I am constantly working on code and projects to achieve this goal.
+<img src="https://i.ibb.co/tZSvQ03/banner-Neww.png" alt="Łukasz Jasionowski Banner.png">
+<p align="center">I'm passionate about exploring new opportunities and technologies.<br>
+I actively participate in courses and training programs to continuously enhance my skills and knowledge.<br>
+My primary interest and specialization are web applications, and I am on a dedicated journey to becoming a Full Stack Web Developer.<br>
+I am always open to learning and growing, embracing new challenges, and contributing to exciting projects.
+Feel free to check out my repositories and connect with me!
 </p>
 <h2 align="center">⚙️Languages and Tools:</h2>
 <p align="center">
@@ -12,19 +12,23 @@ I am currently focusing on improving my skills to become a Full Stack Web Develo
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" title="Bootstrap"
         height="38px">
     <img src="https://www.svgrepo.com/show/452045/js.svg" alt="Java Script" title="Java Script" height="40px">
-    <img src="https://www.svgrepo.com/show/452242/jquery.svg" alt="jQuery" title="jQuery" height="40px">
     <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" title="React" height="40px">
-    <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite" title="Vite" height="40px">
     <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="NodeJS" title="NodeJS" height="40px">
-</p>
-<p align="center">
     <img src="https://www.svgrepo.com/show/452077/npm.svg" alt="NPM" title="NPM" height="40px">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="40px">
+</p>
+<p align="center">
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" title="csharp" height="40px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotNet" title="dotNet" height="40px">
     <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="MSSQL" Title="MSSQL"
         height="40px">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" title="GIT" height="40px">
     <img src="https://powerwiki.net/images/4/48/Powerautomate.svg" alt="Power Automate" title="Power Automate"
         height="40px">
+    <img src="https://powerwiki.net/images/f/f7/Powerapps.svg" alt="Power Apps" title="Power Apps"
+        height="40px">
+    <img src="https://powerwiki.net/images/a/aa/PowerBI_scalable.svg" alt="Power BI" title="Power BI"
+        height="40px">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" title="GIT" height="40px">
 </p>
 <h2 align="center">👇You can find me here:</h2>
 <p align="center">
@@ -106,4 +110,4 @@ C#               2 hrs 54 mins   #------------------------   03.16 %
 </p>
 
 
-<p align="center">🎯 I currently specialize in Power Platform.</p>
+<p align="center">🎯 I am currently training in Power Platform and learning C# and .NET.</p>
