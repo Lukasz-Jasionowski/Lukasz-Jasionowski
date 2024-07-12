@@ -2,7 +2,7 @@
 <p align="center">I'm passionate about exploring new opportunities and technologies.<br>
 I actively participate in courses and training programs to continuously enhance my skills and knowledge.<br>
 My primary interest and specialization are web applications, and I am on a dedicated journey to becoming a Full Stack Web Developer.<br>
-I am always open to learning and growing, embracing new challenges, and contributing to exciting projects.
+I am always open to learning and growing, embracing new challenges, and contributing to exciting projects.<br>
 Feel free to check out my repositories and connect with me!
 </p>
 <h2 align="center">⚙️Languages and Tools:</h2>
