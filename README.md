@@ -89,14 +89,14 @@ Feel free to check out my repositories and connect with me!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 28 October 2024
+From: 14 October 2023 - To: 29 October 2024
 
-JavaScript       28 hrs 40 mins  #######------------------   28.95 %
-HTML             26 hrs 27 mins  #######------------------   26.71 %
-TypeScript       16 hrs 19 mins  ####---------------------   16.48 %
-C#               8 hrs 33 mins   ##-----------------------   08.64 %
-Markdown         4 hrs 19 mins   #------------------------   04.37 %
-CSS              4 hrs 10 mins   #------------------------   04.21 %
+JavaScript       28 hrs 40 mins  #######------------------   28.63 %
+HTML             26 hrs 27 mins  #######------------------   26.42 %
+TypeScript       16 hrs 19 mins  ####---------------------   16.30 %
+C#               9 hrs 37 mins   ##-----------------------   09.61 %
+Markdown         4 hrs 19 mins   #------------------------   04.32 %
+CSS              4 hrs 10 mins   #------------------------   04.16 %
 ```
 
 <!--END_SECTION:waka-->
