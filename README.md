@@ -89,7 +89,7 @@ Feel free to check out my repositories and connect with me!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 10 November 2024
+From: 14 October 2023 - To: 11 November 2024
 
 JavaScript       28 hrs 40 mins  #######------------------   28.53 %
 HTML             26 hrs 33 mins  #######------------------   26.42 %
